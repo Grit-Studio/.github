@@ -38,6 +38,14 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://grit-studio.vercel.app/tech/tensorflow.svg" width="30" alt="AI Integration">
         <br>AI Integration
       </td>
+      <td align="center">
+        <img src="https://grit-studio.vercel.app/tech/ethereum.svg" width="30" alt="Web3 Development">
+        <br>Web3 Development
+      </td>
+      <td align="center">
+        <img src="https://grit-studio.vercel.app/tech/blockchain.svg" width="30" alt="Blockchain Solutions">
+        <br>Blockchain Solutions
+      </td>
     </tr>
   </table>
 </div>
@@ -61,6 +69,9 @@ Grit Studio is a forward-thinking technology company specializing in creating in
       </th>
       <th align="center" width="200px">
         <div style="color: #2088FF">Tools</div>
+      </th>
+      <th align="center" width="200px">
+        <div style="color: #3C3C3D">Web3</div>
       </th>
     </tr>
     <tr>
@@ -108,6 +119,15 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="24" alt="Jenkins"> Jenkins<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" alt="Figma"> Figma<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/ethereum.svg" width="24" alt="Ethereum"> Ethereum<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/solidity.svg" width="24" alt="Solidity"> Solidity<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/web3dotjs.svg" width="24" alt="Web3.js"> Web3.js<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/ipfs.svg" width="24" alt="IPFS"> IPFS<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/polygon.svg" width="24" alt="Polygon"> Polygon<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/hardhat.svg" width="24" alt="Hardhat"> Hardhat<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/chainlink.svg" width="24" alt="Chainlink"> Chainlink
       </td>
     </tr>
   </table>
