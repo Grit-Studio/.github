@@ -68,7 +68,7 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" alt="React"> React<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js"> Next.js<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"> TypeScript<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="24" alt="Tailwind"> Tailwind CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="24" alt="Tailwind"> Tailwind CSS
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"> Node.js<br>
@@ -83,7 +83,7 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"> Kotlin
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" alt="AWS"> AWS<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" alt="AWS"> AWS<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="24" alt="Google Cloud"> Google Cloud<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="24" alt="Azure"> Azure<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" alt="Docker"> Docker
