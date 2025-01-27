@@ -39,11 +39,11 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <br>AI Integration
       </td>
       <td align="center">
-        <img src="https://grit-studio.vercel.app/tech/ethereum.svg" width="30" alt="Web3 Development">
+        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCA3ODQgMTI3NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzkyLjA3IDBMMzgzLjUgMjkuMTFWODczLjc0TDM5Mi4wNyA4ODIuMjlMNzg0LjEzIDY1MC41NEwzOTIuMDcgMFoiIGZpbGw9IiMzNDM0MzQiLz48cGF0aCBkPSJNMzkyLjA3IDBMMCAyNTAuNTRMMzkyLjA3IDg4Mi4yOVY0NzIuMzNWMFoiIGZpbGw9IiM4QzhDOEMiLz48cGF0aCBkPSJNMzkyLjA3IDk1Ni41MkwzODcuMjQgOTYyLjQxVjEyNjIuNDlMMzkyLjA3IDEyNzdMNzg0LjM3IDcyNC44OUwzOTIuMDcgOTU2LjUyWiIgZmlsbD0iIzNDM0MzQiIvPjxwYXRoIGQ9Ik0zOTIuMDcgMTI3N1Y5NTYuNTJMMCA3MjQuODlMMzkyLjA3IDEyNzdaIiBmaWxsPSIjOEM4QzhDIi8+PHBhdGggZD0iTTM5Mi4wNyA4ODIuMjlMNzg0LjEzIDY1MC41NEwzOTIuMDcgNDcyLjMzVjg4Mi4yOVoiIGZpbGw9IiMxNDE0MTQiLz48cGF0aCBkPSJNMCA2NTAuNTRMMzkyLjA3IDg4Mi4yOVY0NzIuMzNMMCA2NTAuNTRaIiBmaWxsPSIjMzkzOTM5Ii8+PC9zdmc+" width="30" alt="Web3 Development">
         <br>Web3 Development
       </td>
       <td align="center">
-        <img src="https://grit-studio.vercel.app/tech/blockchain.svg" width="30" alt="Blockchain Solutions">
+        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAgOFYxNk0xNyA1VjE5TTE0IDhWMTZNMTEgNVYxOU04IDhWMTZNNSA1VjE5IiBzdHJva2U9IiMzQzNDM0QiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHJlY3QgeD0iMiIgeT0iNSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIgc3Ryb2tlPSIjM0MzQzNEIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=" width="30" alt="Blockchain Solutions">
         <br>Blockchain Solutions
       </td>
     </tr>
