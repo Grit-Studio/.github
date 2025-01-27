@@ -68,31 +68,46 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" alt="React"> React<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js"> Next.js<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"> TypeScript<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="24" alt="Tailwind"> Tailwind CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="24" alt="Tailwind"> Tailwind CSS<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24" alt="Vue.js"> Vue.js<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="24" alt="Sass"> Sass<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="24" alt="Redux"> Redux
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"> Node.js<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" alt="Python"> Python<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="24" alt="Go"> Go<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL"> PostgreSQL
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL"> PostgreSQL<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24" alt="MongoDB"> MongoDB<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="24" alt="Redis"> Redis<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="24" alt="GraphQL"> GraphQL
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24" alt="Flutter"> Flutter<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" alt="React Native"> React Native<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="24" alt="Swift"> Swift<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"> Kotlin
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"> Kotlin<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="24" alt="Android"> Android<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="24" alt="iOS"> iOS<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="24" alt="Firebase"> Firebase
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" alt="AWS"> AWS<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="24" alt="Google Cloud"> Google Cloud<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="24" alt="Azure"> Azure<br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" alt="Docker"> Docker
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" alt="Docker"> Docker<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="24" alt="Kubernetes"> Kubernetes<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="24" alt="Terraform"> Terraform<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="24" alt="Nginx"> Nginx
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" alt="Git"> Git<br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" alt="GitHub Actions"> GitHub Actions<br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="24" alt="Jest"> Jest<br>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="24" alt="Cypress"> Cypress
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="24" alt="Cypress"> Cypress<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="24" alt="Jenkins"> Jenkins<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" alt="Figma"> Figma<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code
       </td>
     </tr>
   </table>
