@@ -47,42 +47,52 @@ Grit Studio is a forward-thinking technology company specializing in creating in
 <div align="center">
   <table>
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Mobile</th>
-      <th>Cloud</th>
-      <th>Tools</th>
+      <th align="center" width="200px">
+        <div style="color: #61DAFB">Frontend</div>
+      </th>
+      <th align="center" width="200px">
+        <div style="color: #68A063">Backend</div>
+      </th>
+      <th align="center" width="200px">
+        <div style="color: #02569B">Mobile</div>
+      </th>
+      <th align="center" width="200px">
+        <div style="color: #FF9900">Cloud</div>
+      </th>
+      <th align="center" width="200px">
+        <div style="color: #2088FF">Tools</div>
+      </th>
     </tr>
     <tr>
-      <td>
-        <img src="https://grit-studio.vercel.app/tech/react.svg" width="20" alt="React"> React<br>
-        <img src="https://grit-studio.vercel.app/tech/next.svg" width="20" alt="Next.js"> Next.js<br>
-        <img src="https://grit-studio.vercel.app/tech/typescript.svg" width="20" alt="TypeScript"> TypeScript<br>
-        <img src="https://grit-studio.vercel.app/tech/tailwind.svg" width="20" alt="Tailwind"> Tailwind CSS
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" alt="React"> React<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="24" alt="Next.js"> Next.js<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"> TypeScript<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="24" alt="Tailwind"> Tailwind CSS
       </td>
-      <td>
-        <img src="https://grit-studio.vercel.app/tech/node.svg" width="20" alt="Node.js"> Node.js<br>
-        <img src="https://grit-studio.vercel.app/tech/python.svg" width="20" alt="Python"> Python<br>
-        <img src="https://grit-studio.vercel.app/tech/go.svg" width="20" alt="Go"> Go<br>
-        <img src="https://grit-studio.vercel.app/tech/postgresql.svg" width="20" alt="PostgreSQL"> PostgreSQL
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"> Node.js<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" alt="Python"> Python<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="24" alt="Go"> Go<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" alt="PostgreSQL"> PostgreSQL
       </td>
-      <td>
-        <img src="https://grit-studio.vercel.app/tech/flutter.svg" width="20" alt="Flutter"> Flutter<br>
-        <img src="https://grit-studio.vercel.app/tech/react-native.svg" width="20" alt="React Native"> React Native<br>
-        <img src="https://grit-studio.vercel.app/tech/swift.svg" width="20" alt="Swift"> Swift<br>
-        <img src="https://grit-studio.vercel.app/tech/kotlin.svg" width="20" alt="Kotlin"> Kotlin
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24" alt="Flutter"> Flutter<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24" alt="React Native"> React Native<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="24" alt="Swift"> Swift<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"> Kotlin
       </td>
-      <td>
-        <img src="https://grit-studio.vercel.app/tech/aws.svg" width="20" alt="AWS"> AWS<br>
-        <img src="https://grit-studio.vercel.app/tech/gcp.svg" width="20" alt="Google Cloud"> Google Cloud<br>
-        <img src="https://grit-studio.vercel.app/tech/azure.svg" width="20" alt="Azure"> Azure<br>
-        <img src="https://grit-studio.vercel.app/tech/docker.svg" width="20" alt="Docker"> Docker
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24" alt="AWS"> AWS<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="24" alt="Google Cloud"> Google Cloud<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="24" alt="Azure"> Azure<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" alt="Docker"> Docker
       </td>
-      <td>
-        <img src="https://grit-studio.vercel.app/tech/git.svg" width="20" alt="Git"> Git<br>
-        <img src="https://grit-studio.vercel.app/tech/github.svg" width="20" alt="GitHub Actions"> GitHub Actions<br>
-        <img src="https://grit-studio.vercel.app/tech/jest.svg" width="20" alt="Jest"> Jest<br>
-        <img src="https://grit-studio.vercel.app/tech/cypress.svg" width="20" alt="Cypress"> Cypress
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" alt="Git"> Git<br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" alt="GitHub Actions"> GitHub Actions<br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="24" alt="Jest"> Jest<br>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="24" alt="Cypress"> Cypress
       </td>
     </tr>
   </table>
