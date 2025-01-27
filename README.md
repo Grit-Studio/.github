@@ -126,7 +126,7 @@ Grit Studio is a forward-thinking technology company specializing in creating in
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/web3dotjs.svg" width="24" alt="Web3.js"> Web3.js<br>
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/ipfs.svg" width="24" alt="IPFS"> IPFS<br>
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/polygon.svg" width="24" alt="Polygon"> Polygon<br>
-        <img src="https://raw.githubusercontent.com/nomiclabs/hardhat/master/docs/.vuepress/public/favicon-32x32.png" width="24" alt="Hardhat"> Hardhat<br>
+        <img src="/tech/hardhat.svg" width="24" alt="Hardhat"> Hardhat<br>
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/chainlink.svg" width="24" alt="Chainlink"> Chainlink
       </td>
     </tr>
