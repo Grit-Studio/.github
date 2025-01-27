@@ -44,15 +44,49 @@ Grit Studio is a forward-thinking technology company specializing in creating in
 
 ## Technologies We Love ❤️
 
-```javascript
-const technologies = {
-  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
-  backend: ['Node.js', 'Python', 'Go', 'PostgreSQL'],
-  mobile: ['Flutter', 'React Native', 'Swift', 'Kotlin'],
-  cloud: ['AWS', 'Google Cloud', 'Azure', 'Docker'],
-  tools: ['Git', 'GitHub Actions', 'Jest', 'Cypress']
-}
-```
+<div align="center">
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Mobile</th>
+      <th>Cloud</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://grit-studio.vercel.app/tech/react.svg" width="20" alt="React"> React<br>
+        <img src="https://grit-studio.vercel.app/tech/next.svg" width="20" alt="Next.js"> Next.js<br>
+        <img src="https://grit-studio.vercel.app/tech/typescript.svg" width="20" alt="TypeScript"> TypeScript<br>
+        <img src="https://grit-studio.vercel.app/tech/tailwind.svg" width="20" alt="Tailwind"> Tailwind CSS
+      </td>
+      <td>
+        <img src="https://grit-studio.vercel.app/tech/node.svg" width="20" alt="Node.js"> Node.js<br>
+        <img src="https://grit-studio.vercel.app/tech/python.svg" width="20" alt="Python"> Python<br>
+        <img src="https://grit-studio.vercel.app/tech/go.svg" width="20" alt="Go"> Go<br>
+        <img src="https://grit-studio.vercel.app/tech/postgresql.svg" width="20" alt="PostgreSQL"> PostgreSQL
+      </td>
+      <td>
+        <img src="https://grit-studio.vercel.app/tech/flutter.svg" width="20" alt="Flutter"> Flutter<br>
+        <img src="https://grit-studio.vercel.app/tech/react-native.svg" width="20" alt="React Native"> React Native<br>
+        <img src="https://grit-studio.vercel.app/tech/swift.svg" width="20" alt="Swift"> Swift<br>
+        <img src="https://grit-studio.vercel.app/tech/kotlin.svg" width="20" alt="Kotlin"> Kotlin
+      </td>
+      <td>
+        <img src="https://grit-studio.vercel.app/tech/aws.svg" width="20" alt="AWS"> AWS<br>
+        <img src="https://grit-studio.vercel.app/tech/gcp.svg" width="20" alt="Google Cloud"> Google Cloud<br>
+        <img src="https://grit-studio.vercel.app/tech/azure.svg" width="20" alt="Azure"> Azure<br>
+        <img src="https://grit-studio.vercel.app/tech/docker.svg" width="20" alt="Docker"> Docker
+      </td>
+      <td>
+        <img src="https://grit-studio.vercel.app/tech/git.svg" width="20" alt="Git"> Git<br>
+        <img src="https://grit-studio.vercel.app/tech/github.svg" width="20" alt="GitHub Actions"> GitHub Actions<br>
+        <img src="https://grit-studio.vercel.app/tech/jest.svg" width="20" alt="Jest"> Jest<br>
+        <img src="https://grit-studio.vercel.app/tech/cypress.svg" width="20" alt="Cypress"> Cypress
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Our Work Process 🔄
 
